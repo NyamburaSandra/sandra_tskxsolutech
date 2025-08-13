@@ -1,7 +1,7 @@
 function listofServices(services) {
-  // If input isn't an array, just return an empty list using throw
+  // If input isn't an array, just return an error message  using throw
   if (!Array.isArray(services)) {
-    return [];
+    throw new Error(" Alert Alert Input must be an array")
   }
 
   return services
