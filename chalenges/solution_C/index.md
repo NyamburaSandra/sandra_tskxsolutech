@@ -14,6 +14,7 @@ Please record a 3–4 minute video introducing yourself. Include:
 
 #### LINK
 
+https://m.youtube.com/watch?v=kNHP_ceZncs
 
 ## ✅ Step 1: Record Your Video
 
