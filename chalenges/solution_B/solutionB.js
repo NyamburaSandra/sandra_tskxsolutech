@@ -1,3 +1,6 @@
+//Write pseudocode or  code in JavaScript for the following challenge:
+//Given a list of services with ratings, return the top 3 in descending order.
+
 function listofServices(services) {
   // If input isn't an array, just return an error message  using throw
   if (!Array.isArray(services)) {
