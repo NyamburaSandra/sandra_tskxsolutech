@@ -7,7 +7,8 @@ function listofServices(services) {
   return services
     .slice() // copy to avoid mutating the original list
     .sort((a, b) => b.rating - a.rating) // sort from highest to lowest 
-    .slice(0, 3); // take top 3 services
+    .slice(0, 3); // take the first three elements
+
 }
 
 // Correct array of objects

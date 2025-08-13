@@ -27,6 +27,7 @@ Answer the following questions **briefly and clearly**. Use bullet points or sho
 ### 🚫 2. How to prevent the same book from being borrowed twice:
 - What logic or system check would you implement?
 
+#### Answer
 * Create a field known as book status. 
 * This specific field checks the availability of a certain book to a user whether it is available or borrowed. 
 * If the book is available then one is allowed to get it else denied.
@@ -44,6 +45,7 @@ Answer the following questions **briefly and clearly**. Use bullet points or sho
 ### 🔄 4. Store book info and borrowing record together or separately — why?
 - Share your reasoning for how you'd structure the data.
 
+#### Answer
 * Store them separately which is through data normalization. Reason being to avoid duplication, enhance data integrity and data correctness
 
 
